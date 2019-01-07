@@ -11,5 +11,6 @@ the [Carlo](https://github.com/GoogleChromeLabs/carlo) app framework.
 
 ```
 > npm i
+> elm make src/App.elm --output=app.js
 > npm start
 ```
